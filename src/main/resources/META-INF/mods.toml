@@ -1,0 +1,23 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "All Rights Reserved"
+[[mods]]
+modId = "railwaymod"
+version = "1.0.0"
+displayName = "RailwayMod"
+logoFile = "icon.png"
+credits = "Starter project"
+authors = "You"
+description = "A starter Forge mod for custom tracks, signals, and rail systems."
+[[dependencies.railwaymod]]
+    modId = "forge"
+    mandatory = true
+    versionRange = "[47.2.0,)"
+    ordering = "NONE"
+    side = "BOTH"
+[[dependencies.railwaymod]]
+    modId = "minecraft"
+    mandatory = true
+    versionRange = "[1.20.1]"
+    ordering = "NONE"
+    side = "BOTH"

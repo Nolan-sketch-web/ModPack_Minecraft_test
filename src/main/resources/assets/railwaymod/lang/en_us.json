@@ -1,0 +1,7 @@
+{
+  "block.railwaymod.test_track": "Test Track",
+  "block.railwaymod.signal_block": "Signal Block",
+  "item.railwaymod.track_placer": "Track Placer",
+  "item.railwaymod.test_track": "Test Track Item",
+  "item.railwaymod.signal_block": "Signal Block Item"
+}
